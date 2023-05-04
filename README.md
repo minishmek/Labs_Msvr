@@ -1,1 +1,1 @@
-![alt text](https://raw.githubusercontent.com/minishmek/Labs_Msvr/PA1/video.mp4)
+![alt text](https://raw.githubusercontent.com/minishmek/Labs_Msvr/PA1/video.gif.mp4)
