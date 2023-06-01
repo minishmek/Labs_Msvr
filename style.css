@@ -1,0 +1,23 @@
+body {
+  background-color: #EEEEEE;
+}
+
+div {
+  margin-top: 10px;
+}
+
+audio {
+  margin-top: 20px;
+}
+
+#input5 {
+  margin-left: 10px;
+  width: 60px;
+  height: 60px;
+}
+
+div#d {
+  font-size: xx-large;
+  display: flex;
+  flex-direction: row;
+}
